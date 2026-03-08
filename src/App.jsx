@@ -461,8 +461,8 @@ export default function WeddingInvitation() {
 
             {/* 2 — Couple photos */}
             <div className="couple-photos">
-              <PhotoFrame src="public\images\image1.jpeg" label="Add photo here" icon="🌿" />
-              <PhotoFrame src="public\images\image2.jpeg" label="Add photo here" icon="🌿" />
+              <PhotoFrame src="\images\image1.jpeg" label="Add photo here" icon="🌿" />
+              <PhotoFrame src="\images\image2.jpeg" label="Add photo here" icon="🌿" />
             </div>
 
             <div className="fsep" /><div className="sep-gem"><span>✦</span></div>
@@ -519,7 +519,7 @@ export default function WeddingInvitation() {
 
       <div>
       <audio ref={audioRef} loop>
-        <source src="public\music\song.mp3" type="audio/mp3" />
+        <source src="\music\song.mp3" type="audio/mp3" />
       </audio>
     </div>
     </>
