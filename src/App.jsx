@@ -479,12 +479,12 @@ export default function WeddingInvitation() {
             {/* 4 — Details */}
             <div className="fs">
               <span className="eyebrow">Celebration Details</span>
-              <div className="det-grid">
+              <div className="det-grid" fontSize={12}>
                 {[
-                  {i:"📍",l:"Venue",    v:"Grand Divine Hotel,119-3-B, Kosgama"},
-                  {i:"📅",l:"Date",     v:"Monday\n18 May 2026"},
-                  {i:"⏰",l:"Ceremony", v:"10:40 AM\nPoruwa Ceremony"},
-                  {i:"🏨",l:"Hotel",    v:"Grand Divine Hotel, Kosgama"},
+                  {l:"Venue",    v:"Grand Divine Hotel,119-3-B, Kosgama"},
+                  {1:"Date",     v:"Monday\n18 May 2026"},
+                  {l:"Ceremony", v:"10:40 AM\nPoruwa Ceremony"},
+                  {l:"Hotel",    v:"Grand Divine Hotel, Kosgama"},
                 ].map(d => (
                   <div className="det-box" key={d.l}>
                     <span className="det-i">{d.i}</span>
