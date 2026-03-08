@@ -454,7 +454,7 @@ export default function WeddingInvitation() {
             <div className="fs">
               <span className="eyebrow">Together with their families</span>
               <div className="cover-names">Piumi<span className="cover-amp">&amp;</span>Mihindu</div>
-              <p className="cover-date">Monday · the Fourteenth of May · 2026</p>
+              <p className="cover-date">Monday · the Eighteeth of May · 2026</p>
             </div>
 
             <div className="fsep" /><div className="sep-gem"><span>✦</span></div>
