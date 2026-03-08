@@ -454,7 +454,7 @@ export default function WeddingInvitation() {
             <div className="fs">
               <span className="eyebrow">Together with their families</span>
               <div className="cover-names">Piumi<span className="cover-amp">&amp;</span>Mihindu</div>
-              <p className="cover-date">Saturday · the Fourteenth of June · 2026</p>
+              <p className="cover-date">Monday · the Fourteenth of May · 2026</p>
             </div>
 
             <div className="fsep" /><div className="sep-gem"><span>✦</span></div>
@@ -499,7 +499,7 @@ export default function WeddingInvitation() {
 
             {/* 5 — Closing */}
             <div className="fs">
-              <div className="cl-script">S &amp; J</div>
+              <div className="cl-script">P &amp; M</div>
               <p className="cl-verse">
                 "I carry your heart with me,<br />I carry it in my heart."<br />
                 <span style={{fontSize:".8em",opacity:.65}}>— e.e. cummings</span>
