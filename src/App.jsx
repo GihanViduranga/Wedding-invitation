@@ -454,7 +454,7 @@ export default function WeddingInvitation() {
             <div className="fs">
               <span className="eyebrow">Together with their families</span>
               <div className="cover-names">Piumi<span className="cover-amp">&amp;</span>Mihindu</div>
-              <p className="cover-date">Monday · the Eighteeth of May · 2026</p>
+              <p className="cover-date">Monday · the Eighteenth of May · 2026</p>
             </div>
 
             <div className="fsep" /><div className="sep-gem"><span>✦</span></div>
@@ -470,8 +470,8 @@ export default function WeddingInvitation() {
             {/* 3 — Invitation */}
             <div className="fs">
               <span className="eyebrow">Our Invitation</span>
-              <h2 className="heading">Request the honor of <em>your presence</em></h2>
-              <p className="body-p">as we exchange our vows and begin our new life together on the breathtaking shores of Lake Como. Join us for an evening of love, laughter, and celebration beneath the Italian stars.</p>
+              <h2 className="heading">We joyfully invite you to share in our happiness</h2>
+              <p className="body-p">as we unite in marriage and begin our journey together.Surrounded by the love of our family and friends,we invite you to an evening of warmth, laughter, and celebration,filled with blessings, smiles, and memories to treasure forever.Come and witness our hearts become one under the beautiful Sri Lankan skies.</p>
             </div>
 
             <div className="fsep" /><div className="sep-gem"><span>✦</span></div>
