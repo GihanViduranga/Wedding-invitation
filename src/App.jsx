@@ -482,7 +482,7 @@ export default function WeddingInvitation() {
               <div className="det-grid">
                 {[
                   {i:"📍",l:"Venue",    v:"Grand Divine Hotel,119-3-B, Kosgama"},
-                  {i:"📅",l:"Date",     v:"Saturday\n18 May 2026"},
+                  {i:"📅",l:"Date",     v:"Monday\n18 May 2026"},
                   {i:"⏰",l:"Ceremony", v:"10:40 AM\nPoruwa Ceremony"},
                   {i:"🏨",l:"Hotel",    v:"Grand Divine Hotel, Kosgama"},
                 ].map(d => (
